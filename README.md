@@ -1,3 +1,5 @@
-## About Me 
+## About Me ＼(￣▽￣)／
 
-I’m a software engineering apprentice. I have a strong interest in cybersecurity, networking, and automation, and I’m focused on building practical skills in these areas.
+Software engineering apprentice leveling up in Python automation and Kubernetes.
+
+> "I have no strength, but I want it all. I have no knowledge, but all I do is dream. There’s nothing I can do, but I struggle in vain!"
