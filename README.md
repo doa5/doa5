@@ -1,4 +1,4 @@
-## About Me ＼(￣▽￣)／
+## About Me
 
 Software engineering apprentice studying up on Python automation and Kubernetes.
 
